@@ -9,3 +9,7 @@ alo
 
 # 3. Bỏ qua my_file_3 nhưng vẫn giữ my_file_2 (Chỉ bỏ qua các file trong git repo)
 /*.abc
+
+
+# 4. Bỏ qua my_file_4 trong new_folder_2
+new_folder_2/my_file_4.abc
