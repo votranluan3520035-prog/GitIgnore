@@ -5,3 +5,7 @@ alo
 
 # 2. Bỏ qua tất cả các file có đuôi là .log
 *.log
+
+
+# 3. Bỏ qua my_file_3 nhưng vẫn giữ my_file_2 (Chỉ bỏ qua các file trong git repo)
+/*.abc
