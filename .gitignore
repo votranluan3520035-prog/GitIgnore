@@ -1,0 +1,7 @@
+# 1. Để git kh theo dỗi thư mục alo
+# Cách 1: alo và cách 2: alo/
+alo
+
+
+# 2. Bỏ qua tất cả các file có đuôi là .log
+*.log
